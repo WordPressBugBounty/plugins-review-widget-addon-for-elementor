@@ -2,10 +2,8 @@
 Contributors: trustindex
 Donate link: https://www.trustindex.io/prices/
 Tags: elementor, recommendations, reviews, elementor addon, widget
-Requires at least: 3.0.1
-Tested up to: 6.1
-Requires PHP: 5.2
-Stable tag: 2.2
+Tested up to: 6.8
+Stable tag: 2.2.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Plugin Name: Review widget addon for Elementor
@@ -14,7 +12,7 @@ Plugin URI: https://wordpress.org/plugins/review-widget-addon-for-elementor/
 Author: Trustindex.io <support@trustindex.io>
 Author URI: https://www.trustindex.io/
 Text Domain: review-widget-addon-for-elementor
-Version: 2.2
+Version: 2.2.1
 
 Use this Elementor addon to show your reviews (from Google, Facebook, Tripadvisor) in your site.
 
