@@ -16,6 +16,12 @@ Version: 2.2.1
 
 Use this Elementor addon to show your reviews (from Google, Facebook, Tripadvisor) in your site.
 
+== Important Notice ==
+
+This add-on is now included as part of our review widget plugins. (For example [Widgets for Google Reviews](https://wordpress.org/plugins/wp-reviews-plugin-for-google))
+You no longer need to install this add-on separately — just use the main plugin, and all features are already built-in.
+Thank you for your support!
+
 == Description ==
 
 Display your **Trustindex widgets** for free with our responsive widgets in 2 minutes.

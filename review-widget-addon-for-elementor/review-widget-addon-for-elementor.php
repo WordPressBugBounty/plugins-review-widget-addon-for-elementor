@@ -8,8 +8,8 @@ Author: Trustindex.io <support@trustindex.io>
 Author URI: https://www.trustindex.io/
 Contributors: trustindex
 Version: 2.2.1
-Requires at least: 3.0.1
-Requires PHP: 5.2
+Requires at least: 6.2
+Requires PHP: 7.0
 License: GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: review-widget-addon-for-elementor
